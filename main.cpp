@@ -1,4 +1,3 @@
-// ETH-PERPETUAL
 #include <cpr/cpr.h>
 
 #include <iostream>
