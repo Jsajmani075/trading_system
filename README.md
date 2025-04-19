@@ -38,8 +38,7 @@ CPR: /opt/homebrew/Cellar/cpr/1.11.2/include and /opt/homebrew/Cellar/cpr/1.11.2
 
 Steps to Build and Run
 1)Clone the repository:
-git clone https://github.com/yourusername/trading-system.git
-
+git clone https://github.com/Jsajmani075/trading_system.git
 2)Navigate to the project directory:
 cd trading-system
 
